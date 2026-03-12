@@ -5,6 +5,6 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Di
 
 *Introductory material*
 
-- Class 04 [intro to R] ("lab4")
+- Class 04 [class04] ("lab4")
 - Class 05 [class05]
 -Class 06 [class06]
