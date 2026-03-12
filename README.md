@@ -1,4 +1,10 @@
-# bimm143_github
-My classwork for [BIMM143](https://bioboot.github.io/bimm143_W26/schedule/#9) at UC San Diego
+## Portifilio
+My classwork from [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Diego
 
+## Index of Material
 
+*Introductory material*
+
+- Class 04 [class04]
+- Class 05 [class05]
+-Class 06 [class06]
