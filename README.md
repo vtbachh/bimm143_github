@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # bimm143_github
 My classwork for [BIMM143](https://bioboot.github.io/bimm143_W26/schedule/#9) at UC San Diego
 
@@ -26,5 +25,5 @@ My classwork from [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Di
 - Class 17 [Analyzing sequencing data in the cloud](class17/class17)
 - Class 18 [Project: Investigating pertussis resurgence mini-project](class18/class18)
 - Class 19 [Project: Cancer mutation analysis mini-project](class19/class19)
->>>>>>> 08e4a8b43bd9f2232a4982ba2590fce0da343ca8
+
 
