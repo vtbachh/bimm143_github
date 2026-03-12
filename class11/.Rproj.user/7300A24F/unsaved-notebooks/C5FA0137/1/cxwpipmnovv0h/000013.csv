@@ -1,0 +1,37 @@
+"0","list.files(""hiv_23119/"", pattern = "".pdb"", full.names = T)"
+"1","character(0)
+"
+"0","pdbs <- pdbaln(pdb_files, fit=TRUE)"
+"1","Reading PDB files:"
+"1","
+"
+"1","HIVPrDimer_23119/HIVPrDimer_23119_unrelaxed_rank_001_alphafold2_multimer_v3_model_1_seed_000.pdb"
+"1","
+"
+"1","HIVPrDimer_23119/HIVPrDimer_23119_unrelaxed_rank_002_alphafold2_multimer_v3_model_5_seed_000.pdb"
+"1","
+"
+"1","HIVPrDimer_23119/HIVPrDimer_23119_unrelaxed_rank_003_alphafold2_multimer_v3_model_4_seed_000.pdb"
+"1","
+"
+"1","HIVPrDimer_23119/HIVPrDimer_23119_unrelaxed_rank_004_alphafold2_multimer_v3_model_2_seed_000.pdb"
+"1","
+"
+"1","HIVPrDimer_23119/HIVPrDimer_23119_unrelaxed_rank_005_alphafold2_multimer_v3_model_3_seed_000.pdb"
+"1","
+"
+"1","."
+"1","."
+"1","."
+"1","."
+"1","."
+"1","
+
+Extracting sequences
+"
+"2","Error in seqaln(s, id = files, ...) : 
+  You do not have muscle installed/working locally on your machine.
+  We can attempt to use the EBI webserver if you provide an email address (required by the EBI).
+  Please note that the EBI states (see their Terms of Use):
+     'Using fake e-mail address may result in your jobs being killed and your IP, Organisation or entire domain being black-listed.'
+"

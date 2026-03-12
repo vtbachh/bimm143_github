@@ -1,0 +1,16 @@
+"0","# Visualize first principal component"
+"0","pc1 <- mktrj(pc.xray, pc=1, file=""pc_1.pdb"")"
+"0","pc1"
+"1","
+   Total Frames#: 34
+   Total XYZs#:   612,  (Atoms#:  204)
+
+"
+"1","    [1]  26.787  52.261  40.414  <...>  15.653  53.622  42.018  [20808]"
+"1"," "
+"1","
+
+"
+"1","+ attr: Matrix DIM = 34 x 612"
+"1","
+"

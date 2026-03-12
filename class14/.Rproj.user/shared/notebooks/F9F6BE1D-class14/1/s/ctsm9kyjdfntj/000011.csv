@@ -1,0 +1,6 @@
+"0","library(ggplot2)"
+"2","Warning: package ‘ggplot2’ was built under R version 4.4.3"
+"0","ggplot(res) +"
+"0","  aes(x = log2FoldChange,"
+"0","      y = -log(padj)) +"
+"0","  geom_point()"

@@ -1,0 +1,2 @@
+"0","input <- filter(gapminder, year %in% c(1977, 2007))"
+"0","head(input)"

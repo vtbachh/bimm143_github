@@ -1,0 +1,3 @@
+"0","n.protein <- stats[1, ""Total""]"
+"0","p_protein <- n.protein/n.total"
+"0","p_protein"

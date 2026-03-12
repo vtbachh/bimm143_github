@@ -1,0 +1,9 @@
+"0","# Approximate kinase domain coordinates for ERBB2 protein"
+"0","domain_start <- 720"
+"0","domain_end   <- 976"
+"0","domain_name  <- ""Pkinase_Tyr"""
+"0","pfam_id      <- ""PF07714"""
+"0",""
+"0","in_domain <- mut_pos >= domain_start & mut_pos <= domain_end"
+"2","Error: object 'mut_pos' not found
+"

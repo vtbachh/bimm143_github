@@ -1,0 +1,4 @@
+"0","sim <- conserv(aln)"
+"0",""
+"0","plotb3(sim[1:99], sse=trim.pdb(pdb, chain=""A""),"
+"0","       ylab=""Conservation Score"")"

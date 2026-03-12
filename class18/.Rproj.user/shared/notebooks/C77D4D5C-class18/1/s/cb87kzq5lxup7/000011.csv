@@ -1,0 +1,3 @@
+"0","igg <- abdata |>"
+"0","  filter (isotype==""IgG"")"
+"0","head (igg)"

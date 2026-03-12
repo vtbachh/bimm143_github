@@ -1,0 +1,3 @@
+"0",""
+"0","# cut-off dashed lines"
+"0","abline(v=c(-2,+2), lty=2)"

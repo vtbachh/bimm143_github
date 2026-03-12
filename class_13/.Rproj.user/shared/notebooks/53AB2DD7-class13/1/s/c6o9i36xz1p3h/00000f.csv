@@ -1,0 +1,12 @@
+"0","res$entrez <- mapIds(org.Hs.eg.db,"
+"0","                     keys=row.names(res),"
+"0","                     keytype=""ENSEMBL"","
+"0","                     column=""ENTREZID"")"
+"2","'select()' returned 1:many mapping between keys and columns
+"
+"0","res$genename <- mapIds(org.Hs.eg.db,"
+"0","                       keys=row.names(res),"
+"0","                       keytype=""ENSEMBL"","
+"0","                       column=""GENENAME"")"
+"2","'select()' returned 1:many mapping between keys and columns
+"

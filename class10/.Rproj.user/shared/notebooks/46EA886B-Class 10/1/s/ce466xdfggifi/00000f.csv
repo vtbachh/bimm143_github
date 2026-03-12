@@ -1,0 +1,7 @@
+"0","library(bio3d)"
+"0","id <- ""1ake_A"" ##change this to run a different analysis "
+"0","aa <-get.seq(id)"
+"1","Fetching... Please wait"
+"1","."
+"1"," Done.
+"

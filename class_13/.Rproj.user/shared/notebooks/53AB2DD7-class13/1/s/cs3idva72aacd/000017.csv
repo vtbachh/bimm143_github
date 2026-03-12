@@ -1,0 +1,3 @@
+"0","meancounts$log2f <- log2(meancounts$treated.mean/ meancounts$control.mean)"
+"0",""
+"0","head(meancounts)"

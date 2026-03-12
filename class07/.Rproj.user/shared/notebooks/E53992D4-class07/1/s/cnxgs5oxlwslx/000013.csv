@@ -1,0 +1,2 @@
+"0","library(ggplot2)"
+"0","ggplot(pca$x) + aes(PC1, PC2) + geom_point(col=my_cols)"

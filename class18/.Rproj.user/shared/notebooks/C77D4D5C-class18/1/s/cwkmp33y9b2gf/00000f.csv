@@ -1,0 +1,4 @@
+"0","specimen <- read_json(""http://cmi-pb.org/api/v5_1/specimen"","
+"0","                      simplifyVector = T)"
+"0","ab_titer <- read_json(""http://cmi-pb.org/api/v5_1/plasma_ab_titer"","
+"0","                      simplifyVector = T)"

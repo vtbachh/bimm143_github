@@ -1,0 +1,4 @@
+"0","generate_dna <- function(len=100) {"
+"0","  sample(c(""A"", ""C"", ""G"", ""T""), size =len, replace= TRUE)"
+"0","}"
+"0",""

@@ -1,0 +1,7 @@
+"0","res$symbol <- mapIds(org.Hs.eg.db,"
+"0","                     keys=row.names(res), # Our genenames"
+"0","                     keytype=""ENSEMBL"",        # The format of our genenames"
+"0","                     column=""SYMBOL"")          # The new format we want to add"
+"2","'select()' returned 1:many mapping between keys and columns
+"
+"0","  "

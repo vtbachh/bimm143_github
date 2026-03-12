@@ -1,0 +1,4 @@
+"0","txi.kallisto <- tximport(files, type = ""kallisto"", txOut = TRUE)"
+"2","Error in tximport(files, type = ""kallisto"", txOut = TRUE) : 
+  length(files) > 0 is not TRUE
+"

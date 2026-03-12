@@ -1,0 +1,8 @@
+"0","good_mood <- TRUE"
+"0",""
+"0","if(good_mood) {"
+"0","  cat (""GREAT!"")"
+"0","} else {"
+"0","  cat(""Bummer!"")"
+"0","}"
+"1","GREAT!"

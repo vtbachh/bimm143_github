@@ -1,0 +1,3 @@
+"0","rd <- rmsd(pdbs, fit=T)"
+"2","Warning: No indices provided, using the 198 non NA positions
+"

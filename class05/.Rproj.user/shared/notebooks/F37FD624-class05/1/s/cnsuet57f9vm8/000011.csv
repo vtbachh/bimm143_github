@@ -1,0 +1,4 @@
+"0","library(dplyr)"
+"0",""
+"0","gapminder_2007 <- filter(gapminder, year==2007)"
+"0","head(gapminder_2007)"

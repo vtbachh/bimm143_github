@@ -1,0 +1,6 @@
+"0","gapminder_1977 <- gapminder %>% filter(year==1977 | year==2007)"
+"0",""
+"0","ggplot(gapminder_1977) + "
+"0","  geom_point(aes(x = gdpPercap, y = lifeExp, color=continent), alpha=0.7) + "
+"0","  scale_size_area(max_size = 10) +"
+"0","  facet_wrap(~year)"

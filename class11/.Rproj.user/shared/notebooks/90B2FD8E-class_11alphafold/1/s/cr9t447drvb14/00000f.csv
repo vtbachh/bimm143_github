@@ -1,0 +1,5 @@
+"0","# Read a reference PDB structure"
+"0","pdb <- read.pdb(""1hsg"")"
+"1","  Note: Accessing on-line PDB file
+"
+"2","Warning: /var/folders/pz/7fbmpgs16r9cnr2w17wy3pbw0000gn/T//Rtmp7R49zT/1hsg.pdb  exists. Skipping download"

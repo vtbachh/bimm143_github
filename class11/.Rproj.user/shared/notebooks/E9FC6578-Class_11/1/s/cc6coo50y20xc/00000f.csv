@@ -1,0 +1,9 @@
+"0","results_dir <- ""HIVPrDImer_23119"""
+"0",""
+"0","# File names for all PDB models"
+"0","pdb_files <- list.files(path=""HIVPrDimer_23119"","
+"0","                        pattern=""*.pdb"","
+"0","                        full.names = TRUE)"
+"0","pdb_files"
+"1","character(0)
+"
